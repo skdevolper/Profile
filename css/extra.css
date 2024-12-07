@@ -1,0 +1,9 @@
+.portfolio {
+  display: flex;
+  justify-content: space-around;
+}
+.portfolio .personalcards {
+  border: 1px white solid;
+  padding: 15px 20px;
+  border-radius: 5px 8px;
+}
